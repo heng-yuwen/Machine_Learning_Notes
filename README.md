@@ -1,3 +1,3 @@
-# Machine_Learning_Notes: How to learn machine learning from a student's perspective. 
-
-## This is the learning note of Yuwen Heng, a student graduated from the University of Edinburgh. Now I am applying for the postgraduate program: Artificial Intelligence. Hope these notes can help you find out what you need.
+# How am I and What I am doing?
+## My name is Yuwen Heng. I graduated from the University of Edinburgh and now I am working as a product manager at San Jie Ke, an online vocational education company. 
+## During my working time, I found out that data is the most valuable treasure for everyone's post: 
